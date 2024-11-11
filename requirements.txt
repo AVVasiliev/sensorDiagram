@@ -1,0 +1,4 @@
+Flask
+influxdb-client
+flask_cors
+requests
